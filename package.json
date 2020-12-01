@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020",
+  "main": "index.js",
+  "author": "Philipp Gahlen",
+  "license": "SEE LICENSE IN LICENSE"
+}
